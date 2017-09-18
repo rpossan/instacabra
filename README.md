@@ -1,5 +1,3 @@
-# InstaCabra
-
 [![N|Solid](logo.png)]()
 
 It's a Ruby gem to rip Instagram data such as posts, images, videos or users profiles info.There is also a user interface to fetch this data. This article provides the context bellow:
